@@ -1,4 +1,5 @@
 <h1>Annyeonghaseyo 👋, I'm C. Porter and thanks for coming.</h1>
+<br>
 <h3>Some Quick Facts:</h3>
 
 - I’m working on **becoming a go-to JS developer.**
