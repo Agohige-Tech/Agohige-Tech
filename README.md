@@ -30,6 +30,7 @@
 </p>
 
 <br>
+<h3 align="left">Stats...if you are into that kind of thing:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agohige-tech&show_icons=true&locale=en&layout=compact" alt="agohige-tech" /></p>
 
 <br>
