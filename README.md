@@ -1,10 +1,10 @@
-<h1>Annyeonghaseyo 👋, I'm C. Porter and thanks for coming.</h1>
+<h1>안녕하세요 👋, I'm C. Porter and thanks for visiting.</h1>
 <br>
 <h3>Some Quick Facts:</h3>
 
 - I’m working on **becoming a go-to JS developer.**
 - I’m currently learning **React**
-- Learning to speak Korean.
+- Learning to speak 한극 (Korean).
 - Love challenges, and always up for sharpening skills.
 
 <br>
