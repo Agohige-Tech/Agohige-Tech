@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" alt="Keep Going, Keep Coding" />
+</p>
+
 <h1>안녕하세요 👋, I'm C. Porter and thanks for visiting.</h1>
 
 <br>
