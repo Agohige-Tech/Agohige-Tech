@@ -1,7 +1,7 @@
 <h1>안녕하세요 👋, I'm C. Porter and thanks for visiting.</h1>
 
 <br>
-*"Today I will do what others won't, so tomorrow I can do what others can't."* ~ Jerry Rice
+<em>"Today I will do what others won't, so tomorrow I can do what others can't."</em> ~ Jerry Rice
 <br>
 
 <h3>Some Quick Facts:</h3>
