@@ -13,6 +13,7 @@
 - I’m working on **becoming a go-to JS developer.**
 - I’m currently learning **React**
 - Learning to speak 한극 (Korean).
+- Contributor to [VetsWhoCode](http://www.vetswhocode.io/), Github link [here](https://github.com/Vets-Who-Code).
 - Love challenges, and always up for sharpening skills.
 
 <br>
