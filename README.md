@@ -7,7 +7,7 @@
 <br>
 <em align='center'>"Today I will do what others won't, so tomorrow I can do what others can't."</em> ~ Jerry Rice
 <br>
-![](https://komarev.com/ghpvc/?username=Cameron-Porter&color=blue&style=plastic&label=Views)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Cameron-Porter&style=plastic&label=Views)
 
 <h3>Some Quick Facts:</h3>
 
