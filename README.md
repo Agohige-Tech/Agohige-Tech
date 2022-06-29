@@ -14,7 +14,7 @@
 <h3>Some Quick Facts:</h3>
 
 - I’m **becoming a go-to JS developer** one day at a time.
-- I’m currently learning **React**.
+- I’m currently learning **React** and implementing that knowledge on my [portfolio](https://cporter.netlify.app).
 - Learning to speak 한극 (Korean).
 - Contributor to and lead maintainer of [VetsWhoCode](http://www.vetswhocode.io/), Github link [here](https://github.com/Vets-Who-Code).
 - Love challenges, and always seeking to sharpen skills.
