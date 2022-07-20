@@ -41,17 +41,12 @@
 </p>
 
 <br>
-<h3 align="center">Stats...if you are into that kind of thing:</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cameron-Porter&show_icons=true&locale=en&layout=compact" alt="agohige-tech" /></p>
-
-<br>
 <h3 align="center">Feel free to connect with me at the following:</h3>
 <p align="center">
 <a href="https://twitter.com/agohige_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agohige_tech" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/🚴-cameron-porter-b59387197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="🚴-cameron-porter-b59387197" height="30" width="40" /></a>
 </p>
 
-<!---
-Agohige-Tech/Agohige-Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
