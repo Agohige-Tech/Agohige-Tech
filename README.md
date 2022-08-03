@@ -33,6 +33,10 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/60114461/182607327-324990fa-ade7-4e50-9e1e-3daf8fb23f28.gif") />
+</p>
+
 <br>
 <h3 align="center">Learning and Developing:</h3>
 <p align="center">
