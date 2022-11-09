@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" alt="Keep Going, Keep Coding" />
+  <img src="https://user-images.githubusercontent.com/60114461/200937279-b5d84a03-af23-4766-85ec-66e2a1921d5b.png"
+alt="Keep Going, Keep Coding" />
 </p>
 
 <h1>안녕하세요 👋, I'm Cameron Porter and thanks for visiting.</h1>
