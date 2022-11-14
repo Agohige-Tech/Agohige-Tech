@@ -19,7 +19,6 @@ Currently a Backend Software Engineer for Merkle, Inc. I am intrinsically motiva
 
 See [my website](https://cporter.netlify.app) for more information!
 
-
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
@@ -28,7 +27,7 @@ See [my website](https://cporter.netlify.app) for more information!
       <h3 align="center" display="flex">Rate My Installation</h3>
         <br />
         <a target="_blank" href="https://www.ratemyinstallation.com">
-            <img src="images/rmi.gif" width="100%" alt="Travel App"/>
+            <img src="images/rmi.gif" width="100%" alt="Military Review App"/>
         </a>
         <br />
         <p align="center">
@@ -46,7 +45,7 @@ See [my website](https://cporter.netlify.app) for more information!
       <h3 align="center">Portfolio</h3>
         <br />
       <a target="_blank" href="http://cporter.netlify.app">
-            <img src="images/portfolio.gif" width="100%"  alt="Rigley 2"/>
+            <img src="images/portfolio.gif" width="100%"  alt="Personal Site"/>
         </a>
         <br />
         <p align="center">
@@ -61,10 +60,44 @@ See [my website](https://cporter.netlify.app) for more information!
         <p><strong>Javascript, React, & Bootstrap</strong> - Personal portfolio site to give people a little info about me as well as a way to reach out.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center" display="flex">Netflix Clone</h3>
+        <br />
+        <a target="_blank" href="https://agohige-netflix.web.app/">
+            <img src="images/netflix.gif" width="100%" alt="Netflix Clone"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Cameron-Porter/react_netflix" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://agohige-netflix.web.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, React, CSS, & Movie DB API</strong> - A fun Netflix landing page clone created to help reinforce React skills.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Funimation Clone</h3>
+        <br />
+      <a target="_blank" href="https://github.com/Cameron-Porter/react_funimation">
+            <img src="images/funimation.gif" width="100%"  alt="Funimation Landing Page"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Cameron-Porter/react_funimation" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, React, CSS, & Movie DB API</strong> - A fun Funimation clone of their initial landing page.</p>
+    </td>
+  </tr>
 </table>
 
 <h1 align="center">Technologies</h1>
-
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
@@ -83,14 +116,9 @@ See [my website](https://cporter.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>
 </p>
 
-
-
 ---
 
-
 <h1 align="center">Connect</h1>
-
-
 
 <p align="center">
   <a href="http://cporter.netlify.app" target="_blank">
