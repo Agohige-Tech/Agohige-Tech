@@ -17,7 +17,7 @@ alt="Keep Going, Keep Coding" />
 
 Currently a Backend Software Engineer for Merkle, Inc. I am intrinsically motivated by mastery, to utilize that knowledge in order to make a positive impact in developer and veteran lives through technology.
 
-See [my website](https://cporter.netlify.app) for more information!
+New portfolio coming soon. Will be built using Javascript, Next.js, Tailwind CSS, and Sanity.io. Till then, see [my website](https://cporter.netlify.app) for more information!
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
