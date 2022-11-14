@@ -25,7 +25,7 @@ See [my website](https://cporter.netlify.app) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">RateMyInstallation.com</h3>
+      <h3 align="center" display="flex">Rate My Installation</h3>
         <br />
         <a target="_blank" href="https://www.ratemyinstallation.com">
             <img src="images/rmi.gif" width="100%" alt="Travel App"/>
