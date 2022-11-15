@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/60114461/200937279-b5d84a03-af23-4766-85ec-66e2a1921d5b.png"
-alt="Keep Going, Keep Coding" />
+alt="" />
 </p>
 
 <p align="center">
-  <a href="https://cporter.netlify.app" target="_blank">
+  <a href="https://www.cameronporter.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/cameron-porter-b59387197/" target="_blank">
@@ -17,7 +17,7 @@ alt="Keep Going, Keep Coding" />
 
 Currently a Backend Software Engineer for Merkle, Inc. I am intrinsically motivated by mastery, to utilize that knowledge in order to make a positive impact in developer and veteran lives through technology.
 
-New portfolio coming soon. Will be built using Javascript, Next.js, Tailwind CSS, and Sanity.io. Till then, see [my website](https://cporter.netlify.app) for more information!
+Check out [my website](https://www.cameronporter.dev/) for more information!
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -44,20 +44,20 @@ New portfolio coming soon. Will be built using Javascript, Next.js, Tailwind CSS
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
         <br />
-      <a target="_blank" href="http://cporter.netlify.app">
+      <a target="_blank" href="https://www.cameronporter.dev/#hero">
             <img src="images/portfolio.gif" width="100%"  alt="Personal Site"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Cameron-Porter/portfolio-v3" target="_blank">
+  <a href="https://github.com/Cameron-Porter/portfolio-v4" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://cporter.netlify.app" target="_blank">
+  <a href="https://www.cameronporter.dev/#hero" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, React, & Bootstrap</strong> - Personal portfolio site to give people a little info about me as well as a way to reach out.</p>
+        <p><strong>Typescript, Next.js, Tailwind CSS, & Sanity.io</strong> - Personal portfolio site to give people a little info about me as well as a way to reach out.</p>
     </td>
   </tr>
   <tr>
@@ -121,7 +121,7 @@ New portfolio coming soon. Will be built using Javascript, Next.js, Tailwind CSS
 <h1 align="center">Connect</h1>
 
 <p align="center">
-  <a href="http://cporter.netlify.app" target="_blank">
+  <a href="https://www.cameronporter.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/cameron-porter-b59387197/" target="_blank">
