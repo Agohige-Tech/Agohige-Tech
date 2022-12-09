@@ -10,10 +10,7 @@ alt="" />
   <a href="https://www.linkedin.com/in/cameron-porter-b59387197/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/Agohige_Tech" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-</p>
+ </p>
 
 Currently a Backend Software Engineer for Merkle, Inc. I am intrinsically motivated by mastery, to utilize that knowledge in order to make a positive impact in developer and veteran lives through technology.
 
@@ -126,8 +123,5 @@ Check out [my website](https://www.cameronporter.dev/) for more information!
   </a>
   <a href="https://www.linkedin.com/in/cameron-porter-b59387197/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/Agohige_Tech" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
 </p>
