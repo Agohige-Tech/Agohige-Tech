@@ -12,7 +12,7 @@ alt="" />
   </a>
  </p>
 
-Currently a Backend Software Engineer for Merkle, Inc. I am intrinsically motivated by mastery, to utilize that knowledge in order to make a positive impact in developer and veteran lives through technology.
+Releasing children from poverty in Jesus' name through backend engineering at Compassion International. I am intrinsically motivated by mastery, to utilize that knowledge in order to make a positive impact in developer and veteran lives through technology.
 
 Check out [my website](https://www.cameronporter.dev/) for more information!
 
